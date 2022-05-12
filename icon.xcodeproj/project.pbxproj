@@ -13,6 +13,7 @@
 		CE3F56CD282D413B004AA841 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE3F56CB282D413B004AA841 /* Main.storyboard */; };
 		CE3F56CF282D413E004AA841 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE3F56CE282D413E004AA841 /* Assets.xcassets */; };
 		CE3F56D2282D413E004AA841 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE3F56D0282D413E004AA841 /* LaunchScreen.storyboard */; };
+		CE3F56DA282D4149004AA841 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = CE3F56D9282D4149004AA841 /* icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CE3F56CE282D413E004AA841 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE3F56D1282D413E004AA841 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE3F56D3282D413E004AA841 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE3F56D9282D4149004AA841 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				CE3F56CB282D413B004AA841 /* Main.storyboard */,
 				CE3F56CE282D413E004AA841 /* Assets.xcassets */,
 				CE3F56D0282D413E004AA841 /* LaunchScreen.storyboard */,
+				CE3F56D9282D4149004AA841 /* icon.png */,
 				CE3F56D3282D413E004AA841 /* Info.plist */,
 			);
 			path = icon;
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE3F56DA282D4149004AA841 /* icon.png in Resources */,
 				CE3F56D2282D413E004AA841 /* LaunchScreen.storyboard in Resources */,
 				CE3F56CF282D413E004AA841 /* Assets.xcassets in Resources */,
 				CE3F56CD282D413B004AA841 /* Main.storyboard in Resources */,
